@@ -1,1 +1,4 @@
 testing
+
+codeigniter rest api
+http://programmerblog.net/create-restful-web-services-in-codeigniter/
